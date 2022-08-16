@@ -7,21 +7,22 @@ Basic Formulation of Quantum Mechanics
 * R. P. Feynman, "Space-Time Approach to Non-Relativistic Quantum Mechanics," Rev. Mod. Phys. 20, 367 (1948). <https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.20.367>
 * P. A. M. Dirac, "Quantum Theory of Localizable Dynamical Systems," Phys. Rev. 73, 1092 (1948). <https://journals.aps.org/pr/abstract/10.1103/PhysRev.73.1092>
 * R. P. Feynman, "The Theory of Positrons," Phys. Rev. 76, 749 (1949). <https://journals.aps.org/pr/abstract/10.1103/PhysRev.76.749>
-* T. D. Newton and E. P. Wigner, "Localized States for Elementary Systems," Rev. Mod. Phys. 21, 400 (1949).
-* L. L. Foldy and S. A. Wouthuysen, "On the Theory of Spin 1/2 Particles and Its Non-Relativistic Limit," Phys. Rev. 78, 29 (1950).
-* P. Jordan, J. von Neumann and E. Wigner, "On an Algebraic Generalization of the Quantum Mechanic Formalism," Ann. Math. 35, 29 (1934).
-* P. Jordan and J. von Neumann, "On Inner Products in Linear, Metric Spaces," Ann. Math. 36, 721 (1935).
-* W. K. Burton and B. F. Touschek, Phil. Mag. 44, 161 (1953).
-* J. Schwinger, "The Theory of Quantized Fields. I,'' Phys. Rev. 82, 914 (1951).
-* J. Schwinger, "The Theory of Quantized Fields. II,'' Phys. Rev. 91, 713 (1951).
-* J. Schwinger, "The Theory of Quantized Fields. V,'' Phys. Rev. 93, 615 (1954).
-* J. Schwinger, Phil. Mag. 44, 1131 (1953).
-* E. W. Montroll, "Markoff Chains, Wiener Integrals and Quantum Theory," Commun. Pure Appl. Math. 5, 415 (1952).
-* N. Wiener and A. Siegel, "A New Form for the Statistical Postulate of Quantum Mechanics," Phys. Rev. 91, 1551 (1953).
-* N. Wiener, "Sur la Théorie Relativiste des Quanta," C. R. Acad. Sci. 237, 1640 (1953).
-* A. Landé, "Thermodynamic Continuity and Quantum Principles," Phys. Rev. 87, 267 (1952).
-* A. Landé, "Quantum Mechanics and Thermodynamic Continuity. I," Am. J. Phys. 20, 353 (1952).
-* A. Landé, "Quantum Mechanics and Thermodynamic Continuity. II," Am. J. Phys. 22, 82 (1954).
+* T. D. Newton and E. P. Wigner, "Localized States for Elementary Systems," Rev. Mod. Phys. 21, 400 (1949). <https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.21.400>
+* L. L. Foldy and S. A. Wouthuysen, "On the Theory of Spin 1/2 Particles and Its Non-Relativistic Limit," Phys. Rev. 78, 29 (1950). <https://journals.aps.org/pr/abstract/10.1103/PhysRev.78.29>
+* P. Jordan, J. von Neumann and E. Wigner, "On an Algebraic Generalization of the Quantum Mechanic Formalism," Ann. Math. 35, 29 (1934). <https://www.jstor.org/stable/1968117>
+* P. Jordan and J. von Neumann, "On Inner Products in Linear, Metric Spaces," Ann. Math. 36, 721 (1935). <https://www.jstor.org/stable/1968653>
+* W. K. Burton and B. F. Touschek, Phil. Mag. 44, 161 (1953). <https://www.tandfonline.com/doi/abs/10.1080/14786440208520287>
+* J. Schwinger, "The Theory of Quantized Fields. I" Phys. Rev. 82, 914 (1951). <https://journals.aps.org/pr/abstract/10.1103/PhysRev.82.914>
+* J. Schwinger, "The Theory of Quantized Fields. II" Phys. Rev. 91, 713 (1951). <https://journals.aps.org/pr/abstract/10.1103/PhysRev.91.713>
+* J. Schwinger, "The Theory of Quantized Fields. V" Phys. Rev. 93, 615 (1954). <https://journals.aps.org/pr/abstract/10.1103/PhysRev.93.615>
+* J. Schwinger, Phil. Mag. 44, 1131 (1953).  Maybe incorrect: <https://www.tandfonline.com/doi/abs/10.1080/14786441008520372>
+  Probably page 1171: <https://www.tandfonline.com/doi/abs/10.1080/14786441008520377>
+* E. W. Montroll, "Markoff Chains, Wiener Integrals and Quantum Theory," Commun. Pure Appl. Math. 5, 415 (1952). <https://onlinelibrary.wiley.com/doi/10.1002/cpa.3160050403>
+* N. Wiener and A. Siegel, "A New Form for the Statistical Postulate of Quantum Mechanics," Phys. Rev. 91, 1551 (1953). <https://journals.aps.org/pr/abstract/10.1103/PhysRev.91.1551>
+* N. Wiener, "Sur la Théorie Relativiste des Quanta," C. R. Acad. Sci. 237, 1640 (1953). (not on-line)
+* A. Landé, "Thermodynamic Continuity and Quantum Principles," Phys. Rev. 87, 267 (1952). <https://journals.aps.org/pr/abstract/10.1103/PhysRev.87.267>
+* A. Landé, "Quantum Mechanics and Thermodynamic Continuity. I," Am. J. Phys. 20, 353 (1952). <https://aapt.scitation.org/doi/abs/10.1119/1.1933235>
+* A. Landé, "Quantum Mechanics and Thermodynamic Continuity. II," Am. J. Phys. 22, 82 (1954). <https://aapt.scitation.org/doi/abs/10.1119/1.1933626>
 * B. Davisson, Proc. Roy. Soc. A225, 252 (1954).
 * F. Bopp, Z. Naturforsch. 9a, 579 (1954).
 * D. Langwitz, Z. Naturforsch. 9a, 827 (1954).
