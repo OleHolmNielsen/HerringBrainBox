@@ -1,5 +1,7 @@
 * A311 - History and Foundations
 
+  Original page: http://large.stanford.edu/herring/a/a3/a31/a311/
+
 Basic Formulation of Quantum Mechanics
 --------------------------------------
 
