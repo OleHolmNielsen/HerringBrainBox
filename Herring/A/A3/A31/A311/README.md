@@ -3,10 +3,10 @@
 Basic Formulation of Quantum Mechanics
 --------------------------------------
 
-	E. Schrödinger, "Die gegenwartige Situation in der Quantenmechanik," Naturwiss. 23, 807, 823, 844 (1935). https://informationphilosopher.com/solutions/scientists/schrodinger/Die_Situation-3.pdf
-	R. P. Feynman, "Space-Time Approach to Non-Relativistic Quantum Mechanics," Rev. Mod. Phys. 20, 367 (1948). https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.20.367
-	P. A. M. Dirac, "Quantum Theory of Localizable Dynamical Systems," Phys. Rev. 73, 1092 (1948). https://journals.aps.org/pr/abstract/10.1103/PhysRev.73.1092
-	R. P. Feynman, "The Theory of Positrons," Phys. Rev. 76, 749 (1949). https://journals.aps.org/pr/abstract/10.1103/PhysRev.76.749
+	E. Schrödinger, "Die gegenwartige Situation in der Quantenmechanik," Naturwiss. 23, 807, 823, 844 (1935). <https://informationphilosopher.com/solutions/scientists/schrodinger/Die_Situation-3.pdf>
+	R. P. Feynman, "Space-Time Approach to Non-Relativistic Quantum Mechanics," Rev. Mod. Phys. 20, 367 (1948). <https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.20.367>
+	P. A. M. Dirac, "Quantum Theory of Localizable Dynamical Systems," Phys. Rev. 73, 1092 (1948). <https://journals.aps.org/pr/abstract/10.1103/PhysRev.73.1092>
+	R. P. Feynman, "The Theory of Positrons," Phys. Rev. 76, 749 (1949). <https://journals.aps.org/pr/abstract/10.1103/PhysRev.76.749>
 	T. D. Newton and E. P. Wigner, "Localized States for Elementary Systems," Rev. Mod. Phys. 21, 400 (1949).
 	L. L. Foldy and S. A. Wouthuysen, "On the Theory of Spin 1/2 Particles and Its Non-Relativistic Limit," Phys. Rev. 78, 29 (1950).
 	P. Jordan, J. von Neumann and E. Wigner, "On an Algebraic Generalization of the Quantum Mechanic Formalism," Ann. Math. 35, 29 (1934).
