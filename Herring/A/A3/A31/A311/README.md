@@ -3,37 +3,67 @@
 Basic Formulation of Quantum Mechanics
 --------------------------------------
 
-* E. Schrödinger, "Die gegenwartige Situation in der Quantenmechanik," Naturwiss. 23, 807, 823, 844 (1935). <https://informationphilosopher.com/solutions/scientists/schrodinger/Die_Situation-3.pdf>
-* R. P. Feynman, "Space-Time Approach to Non-Relativistic Quantum Mechanics," Rev. Mod. Phys. 20, 367 (1948). <https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.20.367>
-* P. A. M. Dirac, "Quantum Theory of Localizable Dynamical Systems," Phys. Rev. 73, 1092 (1948). <https://journals.aps.org/pr/abstract/10.1103/PhysRev.73.1092>
-* R. P. Feynman, "The Theory of Positrons," Phys. Rev. 76, 749 (1949). <https://journals.aps.org/pr/abstract/10.1103/PhysRev.76.749>
-* T. D. Newton and E. P. Wigner, "Localized States for Elementary Systems," Rev. Mod. Phys. 21, 400 (1949). <https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.21.400>
-* L. L. Foldy and S. A. Wouthuysen, "On the Theory of Spin 1/2 Particles and Its Non-Relativistic Limit," Phys. Rev. 78, 29 (1950). <https://journals.aps.org/pr/abstract/10.1103/PhysRev.78.29>
-* P. Jordan, J. von Neumann and E. Wigner, "On an Algebraic Generalization of the Quantum Mechanic Formalism," Ann. Math. 35, 29 (1934). <https://www.jstor.org/stable/1968117>
-* P. Jordan and J. von Neumann, "On Inner Products in Linear, Metric Spaces," Ann. Math. 36, 721 (1935). <https://www.jstor.org/stable/1968653>
-* W. K. Burton and B. F. Touschek, Phil. Mag. 44, 161 (1953). <https://www.tandfonline.com/doi/abs/10.1080/14786440208520287>
-* J. Schwinger, "The Theory of Quantized Fields. I" Phys. Rev. 82, 914 (1951). <https://journals.aps.org/pr/abstract/10.1103/PhysRev.82.914>
-* J. Schwinger, "The Theory of Quantized Fields. II" Phys. Rev. 91, 713 (1951). <https://journals.aps.org/pr/abstract/10.1103/PhysRev.91.713>
-* J. Schwinger, "The Theory of Quantized Fields. V" Phys. Rev. 93, 615 (1954). <https://journals.aps.org/pr/abstract/10.1103/PhysRev.93.615>
-* J. Schwinger, Phil. Mag. 44, 1131 (1953).  Maybe incorrect: <https://www.tandfonline.com/doi/abs/10.1080/14786441008520372>
-  Probably page 1171: <https://www.tandfonline.com/doi/abs/10.1080/14786441008520377>
-* E. W. Montroll, "Markoff Chains, Wiener Integrals and Quantum Theory," Commun. Pure Appl. Math. 5, 415 (1952). <https://onlinelibrary.wiley.com/doi/10.1002/cpa.3160050403>
-* N. Wiener and A. Siegel, "A New Form for the Statistical Postulate of Quantum Mechanics," Phys. Rev. 91, 1551 (1953). <https://journals.aps.org/pr/abstract/10.1103/PhysRev.91.1551>
+* E. Schrödinger, "Die gegenwartige Situation in der Quantenmechanik," Naturwiss. 23, 807, 823, 844 (1935).
+  <https://informationphilosopher.com/solutions/scientists/schrodinger/Die_Situation-3.pdf>
+* R. P. Feynman, "Space-Time Approach to Non-Relativistic Quantum Mechanics," Rev. Mod. Phys. 20, 367 (1948).
+  <https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.20.367>
+* P. A. M. Dirac, "Quantum Theory of Localizable Dynamical Systems," Phys. Rev. 73, 1092 (1948).
+  <https://journals.aps.org/pr/abstract/10.1103/PhysRev.73.1092>
+* R. P. Feynman, "The Theory of Positrons," Phys. Rev. 76, 749 (1949).
+  <https://journals.aps.org/pr/abstract/10.1103/PhysRev.76.749>
+* T. D. Newton and E. P. Wigner, "Localized States for Elementary Systems," Rev. Mod. Phys. 21, 400 (1949).
+  <https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.21.400>
+* L. L. Foldy and S. A. Wouthuysen, "On the Theory of Spin 1/2 Particles and Its Non-Relativistic Limit," Phys. Rev. 78, 29 (1950).
+  <https://journals.aps.org/pr/abstract/10.1103/PhysRev.78.29>
+* P. Jordan, J. von Neumann and E. Wigner, "On an Algebraic Generalization of the Quantum Mechanic Formalism," Ann. Math. 35, 29 (1934).
+  <https://www.jstor.org/stable/1968117>
+* P. Jordan and J. von Neumann, "On Inner Products in Linear, Metric Spaces," Ann. Math. 36, 721 (1935).
+  <https://www.jstor.org/stable/1968653>
+* W. K. Burton and B. F. Touschek, Phil. Mag. 44, 161 (1953).
+  <https://www.tandfonline.com/doi/abs/10.1080/14786440208520287>
+* J. Schwinger, "The Theory of Quantized Fields. I" Phys. Rev. 82, 914 (1951).
+  <https://journals.aps.org/pr/abstract/10.1103/PhysRev.82.914>
+* J. Schwinger, "The Theory of Quantized Fields. II" Phys. Rev. 91, 713 (1951).
+  <https://journals.aps.org/pr/abstract/10.1103/PhysRev.91.713>
+* J. Schwinger, "The Theory of Quantized Fields. V" Phys. Rev. 93, 615 (1954).
+  <https://journals.aps.org/pr/abstract/10.1103/PhysRev.93.615>
+* J. Schwinger, Phil. Mag. 44, 1131 (1953).  Maybe incorrect:
+  <https://www.tandfonline.com/doi/abs/10.1080/14786441008520372>
+  Probably page 1171:
+  <https://www.tandfonline.com/doi/abs/10.1080/14786441008520377>
+* E. W. Montroll, "Markoff Chains, Wiener Integrals and Quantum Theory," Commun. Pure Appl. Math. 5, 415 (1952).
+  <https://onlinelibrary.wiley.com/doi/10.1002/cpa.3160050403>
+* N. Wiener and A. Siegel, "A New Form for the Statistical Postulate of Quantum Mechanics," Phys. Rev. 91, 1551 (1953).
+  <https://journals.aps.org/pr/abstract/10.1103/PhysRev.91.1551>
 * N. Wiener, "Sur la Théorie Relativiste des Quanta," C. R. Acad. Sci. 237, 1640 (1953). (not on-line)
-* A. Landé, "Thermodynamic Continuity and Quantum Principles," Phys. Rev. 87, 267 (1952). <https://journals.aps.org/pr/abstract/10.1103/PhysRev.87.267>
-* A. Landé, "Quantum Mechanics and Thermodynamic Continuity. I," Am. J. Phys. 20, 353 (1952). <https://aapt.scitation.org/doi/abs/10.1119/1.1933235>
-* A. Landé, "Quantum Mechanics and Thermodynamic Continuity. II," Am. J. Phys. 22, 82 (1954). <https://aapt.scitation.org/doi/abs/10.1119/1.1933626>
+* A. Landé, "Thermodynamic Continuity and Quantum Principles," Phys. Rev. 87, 267 (1952).
+  <https://journals.aps.org/pr/abstract/10.1103/PhysRev.87.267>
+* A. Landé, "Quantum Mechanics and Thermodynamic Continuity. I," Am. J. Phys. 20, 353 (1952).
+  <https://aapt.scitation.org/doi/abs/10.1119/1.1933235>
+* A. Landé, "Quantum Mechanics and Thermodynamic Continuity. II," Am. J. Phys. 22, 82 (1954).
+  <https://aapt.scitation.org/doi/abs/10.1119/1.1933626>
 * B. Davisson, Proc. Roy. Soc. A225, 252 (1954).
+  <https://royalsocietypublishing.org/doi/10.1098/rspa.1954.0201>
 * F. Bopp, Z. Naturforsch. 9a, 579 (1954).
+  <https://www.degruyter.com/document/doi/10.1515/zna-1954-7-803/html>
 * D. Langwitz, Z. Naturforsch. 9a, 827 (1954).
+  <http://zfn.mpdl.mpg.de/data/Reihe_A/9/ZNA-1954-9a-0827.pdf>
 * S. T. Epstein, "Derivation of the Feynman-Dyson Rules from Time-Independent Theory," Phys. Rev. 98, 196 (1955).
+  <https://journals.aps.org/pr/abstract/10.1103/PhysRev.98.196>
 * P. G. Bergmann and I. Goldberg, "Dirac Bracket Transformations in Phase Space," Phys. Rev. 98, 531 (1955).
+  <https://journals.aps.org/pr/abstract/10.1103/PhysRev.98.531>
 * A. S. Wightman and S. S. Schweber, "Configuration Space Methods in Relativistic Quantum Field Theory. I," Phys. Rev. 98, 812 (1955).
+  <https://journals.aps.org/pr/abstract/10.1103/PhysRev.98.812>
 * A. S. Wightman, "Quantum Field Theory in Terms of Vacuum Expectation Values," Phys. Rev. 101, 860 (1956).
+  <https://journals.aps.org/pr/abstract/10.1103/PhysRev.101.860>
 * J. von Neumann, "On Infinite Direct Products," Composito Math. 1, 6 (1939).
+  <https://eudml.org/doc/88704>
 * S. Altertoni and F. Duimio, "Hilbert Spaces in Quantum Field Theories," Nuovo Cimento 6, 1193 (1953).
+  No URL
 * L. van Hove, "Les Dificulties des Divergences pour un Modele Particulier de Champs Quantifie," Physica 18, 145 (1952).
+  No URL
 * M. Namiki and R. Iino, "A New Mathematical Formulation of Quantum Mechanics in the Framework of Wave-Packet Theory," Suppl. Prog. Theor. Phys. No. 5, (1952), p. 65.
+  No URL
 * M. Hammermesh, Ann. Phys. (N.Y.) 9, 518 (1960).
 * J. P. Lepore, "Communication Relations of Quantum Mechanics," Phys. Rev. 119, 821 (1960).
 * T. Kanino, "On a Possible Generation of Quantum Mechanics," Prog. Theor. Phys. 23, 17 (1960).
