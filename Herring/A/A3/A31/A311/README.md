@@ -65,23 +65,41 @@ Basic Formulation of Quantum Mechanics
 * M. Namiki and R. Iino, "A New Mathematical Formulation of Quantum Mechanics in the Framework of Wave-Packet Theory," Suppl. Prog. Theor. Phys. No. 5, (1952), p. 65.
   No URL
 * M. Hammermesh, Ann. Phys. (N.Y.) 9, 518 (1960).
+  No URL
 * J. P. Lepore, "Communication Relations of Quantum Mechanics," Phys. Rev. 119, 821 (1960).
-* T. Kanino, "On a Possible Generation of Quantum Mechanics," Prog. Theor. Phys. 23, 17 (1960).
+  <https://journals.aps.org/pr/abstract/10.1103/PhysRev.119.821>
+* T. Kaneno, "On a Possible Generation of Quantum Mechanics," Prog. Theor. Phys. 23, 17 (1960).
+  <https://academic.oup.com/ptp/article/23/1/17/1930114>
 * T. Kato, "Fundamental Properties of Hamiltonian Operators of Schödinger Type," Trans. Am. Math. Soc. 70, 195 (1951).
+  <https://www.ams.org/journals/tran/1951-070-02/S0002-9947-1951-0041010-X/>
 * H. Araki, "Wightman Functions, Retarded Functions and Their Analytic Continuations," Suppl. Prog. Theor. Phys., No. 18 (1960), p. 83.
+  <https://academic.oup.com/ptps/article/doi/10.1143/PTPS.18.83/1907807>
 * R. Haag and D. Kastler, "An Algebraic Approach to Quantum Field Theory," J. Math. Phys. 5, 84 (1964).
+  No URL
 * D. Finkelstein, J. M. Jauch and S. Schiminov, "Foundations of Quaterion Quantum Mechanics," J. Math. Phys. 3, 207 (1962).
+  <https://aip.scitation.org/doi/abs/10.1063/1.1703794>
 * D. Finkelstein, J. M. Jauch and D. Speiser, "Quaterionic Representations of Compact Groups," J. Math. Phys. 4, 136 (1963).
+  <https://aip.scitation.org/doi/abs/10.1063/1.1703880>
 * D. Finkelstein, J. M. Jauch and S. Schiminovich, "Principle of General Q Covariance," J. Math. Phys. 4, 788 (1963).
+  <https://aip.scitation.org/doi/abs/10.1063/1.1724320>
 * A. R. Marlow, "Unified Dirac-Von Neumann Formulation of Quantum Mechanics. I. Mathematical Theory," J. Math. Phys. 6, 919 (1965).
+  <https://aip.scitation.org/doi/abs/10.1063/1.1704352>
 * R. Arens and D. Babbitt, "Algebraic Difficulties of Preserving Dynamical Relations When Forming Quantum-Mechanical Operators," J. Math. Phys. 6, 1071 (1965).
+  <https://aip.scitation.org/doi/abs/10.1063/1.1704370>
 * A. Landé, New Foundations of Quantum Mechanics (Cambridge, 1965).
+  <https://www.amazon.com/Foundations-Quantum-Mechanics-Alfred-Lande/dp/1107593549>
 * A. Katz, Nuovo Cimento 44A, 871 (1966).
+  <https://link.springer.com/article/10.1007/BF02721138>
 * H. Primas, "A Density Functional Representation of Quantum Chemistry. I. Motivation and General Formalism," Intl. J. Quantum Chem. 1, 493 (1967).
+  <https://onlinelibrary.wiley.com/doi/abs/10.1002/qua.560010418>
 * L. E. Ballentyne, "Einstein's Interpretation of Quantum Mechanics," Am. J. Phys. 40, 1763 (1972).
+  <https://aapt.scitation.org/doi/abs/10.1119/1.1987060>
 * D. I. Blochintsev and Z. Smith, "Space and Time in the Microworld," (Kluwer, 1973).
+  <https://openlibrary.org/books/OL5297664M/Space_and_time_in_the_microworld>
 * B. S. DeWitt and N. Graham, eds., The Many-Worlds Interpretation of Quantum Mechanics (Princeton, 1973).
+  <https://press.princeton.edu/books/hardcover/9780691645926/the-many-worlds-interpretation-of-quantum-mechanics>
 * E. Scheibe, Logical Analysis of Quantum Mechanics (Elsevier, 1973).
+  <https://www.amazon.ca/Logical-Analysis-Quantum-Mechanics-Scheibe/dp/0080171583>
 
 Correspondence of Classical and Quantum Mechanics
 -------------------------------------------------
